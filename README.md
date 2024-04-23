@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Purushothaman-1
+- 👋 Hi, I’m @Purushothaman
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning
 
